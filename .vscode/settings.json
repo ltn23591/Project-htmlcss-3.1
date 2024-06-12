@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features",
+        "editor.fontFamily":"Jetbrains Mono,Mono Space,Consolas, 'Courier New', monospace",
+        "editor.fontLigatures": true
+    },
+    
+}
